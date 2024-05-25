@@ -92,7 +92,7 @@ body{
     grid-row: span 1; 
  }
  
-  @media screen and (max-width: 320px){
+  @media screen and (max-width: 640px){
    .gallary{
       height:  100%;
    }
