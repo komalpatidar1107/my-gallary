@@ -92,4 +92,13 @@ body{
     grid-row: span 1; 
  }
  
- 
+  @media screen and (max-width: 320px){
+   .gallary{
+      height:  100%;
+   }
+   .box{
+       
+      grid-column: span 5;
+     
+   }
+ }
